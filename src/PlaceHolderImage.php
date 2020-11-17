@@ -11,6 +11,7 @@ class PlaceHolderImage
 		{
 			$queryString = '?text=' . urlencode ($params['text']);
 			unset($params['text']);
+			
 		}
 		return "https://via.placeholder.com/" . \implode('/', $params) . $queryString;
 

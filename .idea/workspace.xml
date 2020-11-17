@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfb379d0-c26a-44d1-8189-76b792d8fa6a" name="Default Changelist" comment="" />
+    <list default="true" id="cfb379d0-c26a-44d1-8189-76b792d8fa6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlaceHolderImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaceHolderImage.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
       <updated>1605621983889</updated>
       <workItem from="1605621985379" duration="214000" />
       <workItem from="1605622228309" duration="851000" />
-      <workItem from="1605623571820" duration="78000" />
+      <workItem from="1605623571820" duration="118000" />
     </task>
     <servers />
   </component>
