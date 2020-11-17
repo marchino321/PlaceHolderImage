@@ -1,0 +1,21 @@
+{
+    "name": "marcodattisi/placheholderimage",
+    "description": "Easy placeholder image from via.placeholder.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Dattisi",
+            "email": "marco.dattisi@gmail.com"
+        }
+    ],
+    "autoload": {
+    "psr-4": {
+        "PlaceHolderImage\\": "src/"
+    }
+},
+
+    "require": {
+        "php": "^7.4"
+    }
+}

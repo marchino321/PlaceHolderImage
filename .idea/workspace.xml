@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfb379d0-c26a-44d1-8189-76b792d8fa6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1kQ9WmVzT1SMQUZ3elnccX5JzqL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$USER_HOME$/PhpstormProjects/MioTemplate/Core/Controller.php" scriptParameters="ccc">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfb379d0-c26a-44d1-8189-76b792d8fa6a" name="Default Changelist" comment="" />
+      <created>1605621983889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605621983889</updated>
+      <workItem from="1605621985379" duration="214000" />
+      <workItem from="1605622228309" duration="496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="228" key="NewPhpClassDialog" timestamp="1605622011269">
+      <screen x="0" y="22" width="1920" height="978" />
+    </state>
+    <state x="638" y="228" key="NewPhpClassDialog/0.22.1920.978@0.22.1920.978" timestamp="1605622011269" />
+    <state x="762" y="437" key="NewPhpFileDialog" timestamp="1605622381006">
+      <screen x="0" y="22" width="1920" height="978" />
+    </state>
+    <state x="762" y="437" key="NewPhpFileDialog/0.22.1920.978@0.22.1920.978" timestamp="1605622381006" />
+    <state x="461" y="150" key="SettingsEditor" timestamp="1605622708939">
+      <screen x="0" y="22" width="1920" height="978" />
+    </state>
+    <state x="461" y="150" key="SettingsEditor/0.22.1920.978@0.22.1920.978" timestamp="1605622708939" />
+    <state x="625" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1605622517449">
+      <screen x="0" y="22" width="1920" height="978" />
+    </state>
+    <state x="625" y="237" width="670" height="676" key="search.everywhere.popup/0.22.1920.978@0.22.1920.978" timestamp="1605622517449" />
+  </component>
+</project>
